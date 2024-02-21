@@ -22,7 +22,7 @@ By Buttburger
 
 -Hermite curve added
 
--Fix Reuploaded as Playback_Hermite2
+-Fix reuploaded as Playback_Hermite2
 
 ***4. LocRotScale Animation***
 
