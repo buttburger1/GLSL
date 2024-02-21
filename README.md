@@ -18,7 +18,7 @@ By Buttburger
 
 -Inital uploads
 
--Playback, switched colors, can play backwards
+-Playback, curve point color swap, can play backwards
 
 -Hermite curve added
 
@@ -52,7 +52,7 @@ By Buttburger
 
 -Merged drawVBO_light to drawVBO
 
--Switching out limitOne and meshSkip
+-Moving away from limitOne and meshSkip
 
 -Fixed indices for lighting
 
