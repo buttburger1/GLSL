@@ -24,7 +24,7 @@ By Buttburger
 
 -Fix reuploaded as Playback_Hermite2
 
-***4. LocRotScale Animation***
+***4. LocRotScale Animation 10/19/2023***
 
 -2 point curve animation [Linear interpolation](https://javascript.info/bezier-curve) P = (1-t)P1 + tP2
 
