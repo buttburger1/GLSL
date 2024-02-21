@@ -3,31 +3,59 @@
 By Buttburger
 
 1. Lightmap 7/28/2023
+
 -Inital uploads
+
 2. Bezier and Multiple Mesh 7/28/2023
+
 -Inital uploads
+
 -[DeCastlejau Bezier curve](https://stackoverflow.com/questions/785097/how-do-i-implement-a-b%C3%A9zier-curve-in-c) drawn in dots
+
 -Load multiple objects in 1 file
+
 3. Playback Hermite 7/28/2023, 10/27/2023
+
 -Inital uploads
+
 -Playback, switched colors, can play backwards
+
 -Hermite curve added
+
 -Fix Reuploaded as Playback_Hermite2
+
 4. LocRotScale Animation
+
 -2 point curve animation [Linear interpolation](https://javascript.info/bezier-curve) P = (1-t)P1 + tP2
+
 -Added X button to orbit around object, Z to switch back
+
 5. Interpolation 11/25/2023
+
 -Animation interpolation employing the use of [Hermite Cubic Splines](https://github.com/gszauer/GameAnimationProgramming)
+
 -Moved from Quaternions to Euler
+
 -Provided 3 files, rename to use
+
 -Switched to grey background, black text
+
 6. VertexColors 1/24/2024
+
 -Load solid colors from vertex paint
+
 -Looks for either UV Maps or Vertex Colors. Not meant to load both
+
 -Switched to lighter grey background
+
 7. Multiple Mesh Rewrite 2/21/2024
+
 -Merged drawVBO_light to drawVBO
+
 -Switching out limitOne and meshSkip
+
 -Fixed indices for lighting
+
 -Screen size adjust on resize
+
 -Object load has transform matrix applied
