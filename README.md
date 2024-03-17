@@ -59,3 +59,13 @@ By Buttburger
 -Screen size adjust on resize
 
 -Object load has transform matrix applied
+
+***8. Light caster and normal mapping  3/17/2024***
+
+-File name shortened
+
+-Added directional light, point light, and spot light
+
+-Added normal mapping
+
+-To move directional light use keys I, J for X axis. O, K for Y axis. P, L for Z axis. Point light is fixed. Spot light use arrow keys and mouse drag
