@@ -60,7 +60,7 @@ By Buttburger
 
 -Object load has transform matrix applied
 
-***8. Light caster and normal mapping  3/17/2024***
+***8. Light casters and normal mapping  3/17/2024***
 
 -File name shortened
 
