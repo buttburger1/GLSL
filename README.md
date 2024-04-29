@@ -69,3 +69,5 @@ By Buttburger
 -Added normal mapping
 
 -To move directional light use keys I, J for X axis. O, K for Y axis. P, L for Z axis. Point light is fixed. Spot light use arrow keys and mouse drag
+
+-4/30/2024 GL_DEPTH_TEST and GL_CULL_FACE fix in drawVBO
