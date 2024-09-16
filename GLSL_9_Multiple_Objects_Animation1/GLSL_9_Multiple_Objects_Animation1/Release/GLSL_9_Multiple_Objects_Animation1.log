@@ -1,0 +1,14 @@
+﻿  2dhud.cpp
+  Common.cpp
+  glfwkey.cpp
+  loadxml.cpp
+  load_buffers.cpp
+  load_shaders.cpp
+  load_shapes.cpp
+  load_textures.cpp
+  Main.cpp
+  objloader.cpp
+     Creating library c:\users\gillbates\documents\visual studio 2012\Projects\GLSL_9_Multiple_Objects_Animation1\Release\GLSL_9_Multiple_Objects_Animation1.lib and object c:\users\gillbates\documents\visual studio 2012\Projects\GLSL_9_Multiple_Objects_Animation1\Release\GLSL_9_Multiple_Objects_Animation1.exp
+  Generating code
+  Finished generating code
+  GLSL_9_Multiple_Objects_Animation1.vcxproj -> c:\users\gillbates\documents\visual studio 2012\Projects\GLSL_9_Multiple_Objects_Animation1\Release\GLSL_9_Multiple_Objects_Animation1.exe
