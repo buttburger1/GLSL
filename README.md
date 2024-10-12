@@ -75,3 +75,7 @@ By Buttburger
 ***9. Multiple Objects Animation  9/16/2024***
 
 -Load multiple objects with animation in 1 file
+
+***10. Object Matrix  10/12/2024***
+
+-Load objects without mesh such as camera and lamp(light) with its matrix and animation
