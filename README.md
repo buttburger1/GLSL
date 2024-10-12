@@ -78,4 +78,4 @@ By Buttburger
 
 ***10. Object Matrix  10/12/2024***
 
--Load objects without mesh such as camera and lamp(light) with its matrix and animation
+-Load objects without mesh such as camera and lamp (light) with its matrix and animation
