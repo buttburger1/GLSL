@@ -60,7 +60,7 @@ By Buttburger
 
 -Object load has transform matrix applied
 
-***8. Light casters and normal mapping  3/17/2024***
+***8. Light casters and normal mapping 3/17/2024***
 
 -File name shortened
 
@@ -72,10 +72,13 @@ By Buttburger
 
 -4/30/2024 GL_DEPTH_TEST and GL_CULL_FACE fix in drawVBO
 
-***9. Multiple Objects Animation  9/16/2024***
+***9. Multiple Objects Animation 9/16/2024***
 
 -Load multiple objects with animation in 1 file
 
-***10. Object Matrix  10/12/2024***
+***10. Object Matrix 10/12/2024***
 
 -Load objects without mesh such as camera and lamp (light) with its matrix and animation
+
+***11. Object Matrix fix 10/19/2024***
+-A fix to load assets correctly
