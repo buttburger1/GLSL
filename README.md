@@ -86,6 +86,6 @@ By Buttburger
 
 ***12. Multiple Lights 11/16/2024***
 
--Blender lighting: point, sun (directional), and spot. Spotlight direction not implemented
+-Blender lamp (light): point, sun (directional), and spot. Spotlight direction not implemented
 
 -Locate the lights with spheres
