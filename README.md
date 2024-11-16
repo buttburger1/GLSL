@@ -83,3 +83,9 @@ By Buttburger
 ***11. Object Matrix fix 10/19/2024***
 
 -A fix to load assets correctly
+
+***12. Multiple Lights 11/16/2024***
+
+-Blender lighting: point, sun(directional), and spot. Spotlight direction not implemented
+
+-Locate the lights with spheres
