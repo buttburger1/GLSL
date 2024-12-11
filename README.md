@@ -89,3 +89,7 @@ By Buttburger
 -Blender lamp (light): point, sun (directional), and spot. Spotlight direction not implemented
 
 -Locate the lights with spheres
+
+***12. Spotlight direction 12/11/2024***
+
+-Spot light direction applied
