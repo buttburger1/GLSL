@@ -96,4 +96,4 @@ By Buttburger
 
 ***14. Animate Camera 1/19/2024***
 
--Movement keys switch to WASD, for camera animation press C, press X to orbit, press Z to revert to inital
+-Movement keys switch to WASD. For camera animation press C, press X to orbit, press Z to revert to inital. Press or hold Q or E to adjust down or up animation speed.
