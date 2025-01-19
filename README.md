@@ -90,6 +90,9 @@ By Buttburger
 
 -Locate the lights with spheres
 
-***12. Spotlight direction 12/11/2024***
+***13. Spotlight direction 12/11/2024***
 
 -Spot light direction applied
+
+***14. Animate Camera 1/19/2024***
+-Movement keys switch to WASD, for camera animation press C, press X to orbit, press Z to revert to inital
