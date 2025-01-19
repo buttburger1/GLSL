@@ -95,4 +95,5 @@ By Buttburger
 -Spot light direction applied
 
 ***14. Animate Camera 1/19/2024***
+
 -Movement keys switch to WASD, for camera animation press C, press X to orbit, press Z to revert to inital
